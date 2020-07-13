@@ -1,0 +1,6 @@
+framework module Pods_DelaunayTriangulation {
+  umbrella header "Pods-DelaunayTriangulation-umbrella.h"
+
+  export *
+  module * { export * }
+}
